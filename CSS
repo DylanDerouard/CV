@@ -1,0 +1,9 @@
+#page{
+   
+    width: 780px;
+    margin: auto;
+    font-family: 'Source sans Pro', 'Calibri', 'Castoro', sans-serif;
+    font-size: 16px; 
+
+    background-image: url("Images/fond1.jpg");
+}

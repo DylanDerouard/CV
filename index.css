@@ -1,8 +1,11 @@
-p{
-    color: lightslategray;
+p.Présentation{
+    color: rgb(3, 5, 0);
 }
 
 body{
 background-image:url("images/fond2.jpg");
-}
 
+}
+p.Experiences{
+    color: darkorchid;
+}

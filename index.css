@@ -1,11 +1,20 @@
 p.Présentation{
-    color: rgb(3, 5, 0);
+    font-size: 28px;
+    color: #000000
+    
+    
 }
 
 body{
-background-image:url("images/final.jpg");
+background-color: #02B0E8;
+font-size: 20px;
 
 }
 p.Experiences{
-    color: rgb(0, 0, 0);
+    font-size: 12px;
+    color: #000000
+}
+
+p.Formation{
+    color: #000000;
 }

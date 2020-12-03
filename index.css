@@ -1,8 +1,10 @@
-p.Présentation{
+.Présentation{
     font-size: 28px;
-    color: #000000
-    
-    
+    color: #000000;
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
 }
 
 body{
@@ -10,11 +12,21 @@ background-color: #02B0E8;
 font-size: 20px;
 
 }
-p.Experiences{
+.Experiences{
     font-size: 12px;
     color: #000000
 }
 
-p.Formation{
+.Formation{
     color: #000000;
+}
+.contenu-test{
+    display:flex;
+    justify-content: space-between;
+}
+.experience{
+    width: 100%;
+}
+.formation{
+    width: 100%;
 }

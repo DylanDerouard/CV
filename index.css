@@ -22,19 +22,22 @@ border: 90mm ridge rgba(170, 50, 220, .6);
 .Formation{
     color: #000000;
     margin-right: 15px;
+    margin-left: 0px;
 }
 .contenu-test{
     display:flex;
     justify-content: space-between;
+    margin-left: 150px;
 }
 .experience{
     width: 100%;
 }
 .formation{
     width: 100%;
+    margin-left: 150px;
 }
 .photo{
     margin-top: 15px;
-    margin-left: 1025px;
-    margin-right: 15px;
+    margin-left: 680px;
+    margin-right: 400px;
 }
